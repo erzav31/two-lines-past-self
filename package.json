@@ -1,0 +1,1 @@
+{"description":"Two lines to your past self: one warning about a single concrete moment, one sentence on why it mattered.","engines":{"node":">=22.18"},"license":"MIT","name":"two-lines-past-self","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
